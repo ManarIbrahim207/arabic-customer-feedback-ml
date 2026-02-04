@@ -11,7 +11,7 @@ Arabic customer feedback is often unstructured and difficult to analyze manually
 
 This system addresses that challenge by applying classical machine learning techniques to Arabic NLP and deploying the solution as an interactive web application.
 
-📊 Dataset
+ Dataset
 
 Source: Arabic customer reviews and feedback
 
